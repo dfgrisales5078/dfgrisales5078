@@ -8,4 +8,3 @@
 
 ## 
 
-### [My Resume](https://dfgrisales5078.github.io/dfgrisales5078/DiegoGrisalesResume.pdf)
